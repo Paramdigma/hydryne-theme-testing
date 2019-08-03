@@ -8,7 +8,7 @@ custom-content: true
 
 # Hero section
 hero:
-  title: "Some title"
+  title: "Some title test"
   subtitle: "Subtitle of the hero"
   button:
     url: http://google.es
