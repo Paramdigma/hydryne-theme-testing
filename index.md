@@ -60,5 +60,3 @@ faq:
   - question: Questions?
     answer: Contact us for any further questions at <a href="#">john@business.com</a>.
 ---
-
-{% include faq.html questions=page.faq %}
