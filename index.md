@@ -52,5 +52,3 @@ callout:
     text: Go now
 
 ---
-
-{% include faq.html questions=page.faq %}
