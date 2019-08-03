@@ -2,6 +2,7 @@
 title: The last sales CRM you'll ever need
 description: Track and optimize your sales team in real time
 layout: landing
+
 # Switch to true if you want to render the markdown content in this page.
 custom-content: false
 
