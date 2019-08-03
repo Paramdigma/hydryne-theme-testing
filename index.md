@@ -1,5 +1,5 @@
 ---
-title: Force rebuild 2
+title: Force rebuild 3
 description: Track and optimize your sales team in real time
 layout: landing
 
@@ -8,7 +8,7 @@ custom-content: true
 
 # Hero section
 hero:
-  title: "Some title test 2"
+  title: "Some title test 3"
   subtitle: "Subtitle of the hero"
   button:
     url: http://google.es
@@ -50,5 +50,4 @@ callout:
   button:
     url: https://google.es
     text: Go now
-
 ---
