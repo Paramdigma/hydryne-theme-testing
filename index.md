@@ -4,7 +4,7 @@ description: Track and optimize your sales team in real time
 layout: landing
 
 # Switch to true if you want to render the markdown content in this page.
-custom-content: false
+custom-content: true
 
 # Hero section
 hero:
@@ -52,3 +52,5 @@ callout:
     text: Go now
 
 ---
+
+{% include faq.html questions=page.faq %}
