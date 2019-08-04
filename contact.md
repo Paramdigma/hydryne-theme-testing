@@ -3,6 +3,7 @@ title: Contact
 heading: Get in touch today
 description: We'd love to help you improve your sales.
 layout: contact
+full_width: true
 
 form:
   to: "alan@rynne.es"
