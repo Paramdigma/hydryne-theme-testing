@@ -21,10 +21,6 @@ data:
       link: /contact/
       new_window: false
       highlight: false
-    - name: Login
-      link: /
-      new_window: true
-      highlight: false
     - name: Sign Up
       link: /
       new_window: true
@@ -69,6 +65,10 @@ data:
         link: /feed.xml
         social_icon: RSS
         new_window: false
+
+collections:
+  staff_members:
+    _hide_content: true
 
 paginate: 10
 paginate_path: "/blog/:num/"
