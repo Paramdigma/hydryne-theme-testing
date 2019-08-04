@@ -2,7 +2,7 @@
 title: Our team
 description: We've built an amazing team of developers, marketers, designers and sales people.
 layout: page
-permalink: /about
+permalink: /about.html
 ---
 <ul class="staff">
 	{% for person in site.staff_members %}
