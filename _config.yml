@@ -3,6 +3,7 @@ title: Hydryne testing 4
 url: "https://rynne.es"
 baseurl: "/hydryne-theme-testing"
 
+logo: /assets/images/logo.svg
 data:
   navigation:
     - name: Pricing

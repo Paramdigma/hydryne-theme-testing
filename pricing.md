@@ -3,8 +3,8 @@ title: Pricing test
 heading: Find the perfect plan for your business
 description: All plans include our award winning sales optimization solution to track your sales in real time.
 permalink: /pricing.html
-
 layout: pricing
+
 pricing_table:
   - name: Basic
     color: "#8e8e8e"

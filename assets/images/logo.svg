@@ -1,4 +1,4 @@
-<svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="357.25px" height="124px" viewBox="0 0 357.25 124">
     <linearGradient id="3f4g4tru"/>
     <linearGradient id="olkb5wjc"/>
     <linearGradient id="1f2gee9w"/>
@@ -7,5 +7,4 @@
     <rect fill="rgb(0, 0, 0)" height="321" width="319" x="10" y="22"/>
     <linearGradient id="thrznjeb"/>
     <polyline fill="rgb(255, 254, 254)" points="120,98 132,82 169,48 266,186 225,302 177,163 118,167 59,126 67,66"/>
-
 </svg>
