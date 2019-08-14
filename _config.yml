@@ -70,8 +70,6 @@ logo: /assets/images/logo.svg
 collections:
   staff_members:
     _hide_content: true
-  data:
-    _hide_content: true
 
 paginate: 10
 paginate_path: "/blog/:num/"
